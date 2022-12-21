@@ -1,9 +1,16 @@
-<h1> Currículo </h1>
-Daniel Ferreira Dos Santos Rosas
-Brasileiro, Solteiro, 24 Anos,
-E-mail: danielferreiradossantosrosas@gmail.com
-contato: (83) 987926717
-endereço: Rua São Geraldo, 210 - João Pessoa-Pb
+**<h1> Currículo </h1>**
+
+  **Daniel Ferreira Dos Santos Rosas**
+  
+  Brasileiro, Solteiro, 24 Anos
+  
+  E-mail: <danielferreiradossantosrosas@gmail.com>
+  
+  Linkedin :<https://www.linkedin.com/in/daniel-ferreira-583806235/>
+  
+  contato: (83) 987926717
+  
+  endereço: Rua São Geraldo, 210 - João Pessoa-Pb
 
 <h2>Objetivo:</h2>
 
